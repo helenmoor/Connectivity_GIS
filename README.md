@@ -5,3 +5,5 @@ Supplementary information for Moor H, Siitonen J & Snäll T (2018) Predicted for
 Available for download here: https://www.artdatabanken.se/publikationer/bestall-publikationer/predicted-forest-beetle-distributions-in-dalarna/
 
 See ConnectivityMappingProtocol_HM.pdf for a description of objectives, data, protocol and output.
+
+[![DOI](https://zenodo.org/badge/149096540.svg)](https://zenodo.org/badge/latestdoi/149096540)
